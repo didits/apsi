@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="7.87402in" height="7.87402in" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 7.87402 7.87402"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:black;stroke-width:0.0833346}
+    .str0 {stroke:black;stroke-width:0.0833346;stroke-linecap:round}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="3.40566" y1="5.80984" x2="4.46836" y2= "5.19629" />
+  <line class="fil0 str0" x1="3.40566" y1="4.58274" x2="4.46836" y2= "5.19629" />
+  <line class="fil0 str0" x1="3.40566" y1="4.58274" x2="3.92386" y2= "4.28355" />
+  <line class="fil0 str0" x1="3.93701" y1="1.91291" x2="4.55056" y2= "2.97561" />
+  <line class="fil0 str0" x1="3.93701" y1="1.91291" x2="3.32346" y2= "2.97561" />
+  <line class="fil0 str1" x1="3.93701" y1="1.91291" x2="3.93701" y2= "4.27596" />
+  <line class="fil0 str0" x1="3.40566" y1="5.80985" x2="3.92386" y2= "6.10904" />
+ </g>
+</svg>

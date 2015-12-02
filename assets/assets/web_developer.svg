@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="7.87402in" height="7.87402in" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 7.87402 7.87402"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#FEFEFE;stroke-width:0.02}
+    .str1 {stroke:black;stroke-width:0.02}
+    .str2 {stroke:white;stroke-width:0.02}
+    .fil3 {fill:none}
+    .fil0 {fill:black}
+    .fil2 {fill:#00CE9A}
+    .fil1 {fill:#FEDC00}
+    .fil4 {fill:white}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M3.93911 4.55259c1.68341,0 3.05698,1.32601 3.13355,2.99051l-6.26709 0c0.0765669,-1.6645 1.45013,-2.99051 3.13354,-2.99051z"/>
+  <circle class="fil0" cx="3.93911" cy="2.95675" r="2.32496"/>
+  <path class="fil1" d="M5.36969 3.81267c-0.224331,0.573059 -0.782059,0.978929 -1.43462,0.978929 -0.652559,0 -1.21029,-0.40587 -1.43462,-0.978929l2.86924 0z"/>
+  <polygon class="fil0 str0" points="4.00179,5.71514 4.25913,5.82173 4.51647,5.92832 4.62306,6.18567 4.72965,6.443 4.62306,6.70033 4.51647,6.95767 4.25913,7.06427 4.00179,7.17086 3.74446,7.06427 3.48711,6.95767 3.38052,6.70033 3.27393,6.443 3.38052,6.18567 3.48711,5.92832 3.74446,5.82173 "/>
+  <circle class="fil2 str1" cx="4.00179" cy="6.443" r="0.48817"/>
+  <circle class="fil0 str1" cx="4.00179" cy="6.443" r="0.231044"/>
+  <polygon class="fil3 str2" points="4.05833,6.28737 4.11391,6.38364 4.1695,6.47991 4.05833,6.47991 3.94716,6.47991 4.00274,6.38364 "/>
+  <path class="fil4 str2" d="M4.0569 6.47991l-0.109744 0 0.054878 -0.0950551c0.0327992,0.0189764 0.0548661,0.054437 0.0548661,0.0950551z"/>
+  <circle class="fil3 str2" cx="3.94716" cy="6.47991" r="0.109742"/>
+ </g>
+</svg>
