@@ -1,40 +1,18 @@
   <!-- Modal Structure -->
   <div id="modal1" class="modal modal-fixed-footer">
     <div class="modal-content">
-      <h4>FOTO BUKTI PEMBAYARAN</h4>
-      <p>Silahkan masukan foto bukti transfer pembayaran dengan format .jpg atau .png</p>
-      <form >
-        <div class="input-field col s12">
-                <div class="file-field input-field">
-      <div class="btn">
-        <span>File</span>
-        <input type="file">
-      </div>
-      <div class="file-path-wrapper">
-        <input class="file-path validate" type="text">
-      </div>
-    </div>
-        </div>
-    </form>
-    <span>Setelah Anda menekan tombol submit maka Admin segera mengonfirmasi melalui sms</span>
+      <h4>KONFIRMASI PEMBAYARAN OFFLINE SUKSES</h4>
     </div>
     <div class="modal-footer">
-      <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat ">SUBMIT</a>
+      <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat ">OK</a>
     </div>
   </div>
-  
-<!-- SLIDER -->
-<div class="col s12">
-  <div class="parallax-container">
- <div class="parallax"><img src="<?php echo base_url();?>assets/assets/lap_futsal.JPG"></div>
-  </div>
-</div>
+
 
 <div class="container">
 	<div class="row">
         <div class="col s12 m12">
-        <h3>KONFIRMASI PEMBAYARAN</h3>
-         <p>Setelah Anda melakuakan transfer silakan masukkan token pembayaran!</p>
+        <h3>KONFIRMASI PEMBAYARAN OFFLINE</h3>
         </div>
         <div class="col s12 l12 hide-on-med-and-down">
 		<div class="border margin-bottom">
